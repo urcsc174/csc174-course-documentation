@@ -1,4 +1,4 @@
-# Course Syllabus: CSC 174 - Advanced Front-end Web Design and Development
+# Course Syllabus:<br>CSC 174 - Advanced Front-end Web Design and Development
 
 "Front-end" is an industry term that refers to the focus on HTML, CSS and JavaScript, which differentiates this course from the formal programming courses. Topics include Information Architecture, visual design, use of client libraries (mostly JS), and asset management strategies; we will also cover Content Management Systems and introduce web databases using PHP and MySQL.
 

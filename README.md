@@ -1,4 +1,3 @@
-# CSC 174 Course Documentation
 Advanced Front-end Web Design and Development
 
 - [Syllabus](syllabus.md)
