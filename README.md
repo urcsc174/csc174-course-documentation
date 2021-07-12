@@ -12,7 +12,6 @@ Advanced Front-end Web Design and Development
   - [Demo files for part 1 (ZIP)](03a-php-mysql1/intro-mysql.zip)
 - PHP and MySQL, part 2 ([PDF](03b-php-mysql2/php-mysql2.pdf))
   - [Demo files for part 2 (ZIP)](03b-php-mysql2/intro-mysql2.zip)
-  - Assignment - to be described in-class (turned-in as part of Lab 3 coming later)
-    - Create a database/table and associated user
-    - Create an HTML form (plain vanilla) that writes to the database
+  - Assignment: to be done *before* we meet again on Wednesday, July 14
+    - [Prep for Lab 3 - instructions](03b-php-mysql2/instructions.md)
 
