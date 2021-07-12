@@ -37,7 +37,7 @@ To prepare for Wednesday, July 14, you need to create the following on your loca
 	`$_______________ = Trim(stripslashes($_POST['_______________']));`
 	...if you need help figuring out what to replace the blanks with, don't hesitate to ask in the #help channel in Slack
 	
-- Continue editing the **insert.php** file; edit the SQL statement in section **2. Perform database query** ; make the SQL code work with what you built in the MySQL database by changing:
+- Continue editing the **insert.php** file; edit the SQL statement in section "**2. Perform database query**" to make the SQL code work with what you built in the MySQL database by changing:
 
   - The table name
   - The field names in the table (be careful! case sensitive!)
