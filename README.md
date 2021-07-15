@@ -7,5 +7,5 @@ Advanced Front-end Web Design and Development
 
 - Four Database Functions ([PDF](04a-four-database-functions/html-forms-review.pdf)) and "CRUD" ([PDF](04a-four-database-functions/crud.pdf))
   - More *intro-mysql* files ([ZIP](04a-four-database-functions/intro-mysql3.zip))
-- Lab 3 instructions, coming soon
+- [Lab 3: Four Database Functions, part 1](lab03-four-database-functions1/instructions.md) (due: Friday, July 16)
 
