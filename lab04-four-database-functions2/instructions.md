@@ -32,7 +32,7 @@ Assuming you completed **Lab 3** successfully and you are familiar with the in-c
 
 Make sure the READ function of your database still works normally (even if the "Edit" and "Delete" functions don't work yet)
 
-## Step 2: Add the Delete and Update Functions to the Visitors webpage
+## Step 3: Add the Delete and Update Functions to the Visitors webpage
 
 The exact code you need to edit to add the *delete* and *update* functions to your visitors webpage depends on a lot of custom factors based on your own website and how you're structuring your file system.  So instead of specific instructions, here are the requirements you need to fulfill (below).  If you need help or get stuck - just use the #help channel in Slack to get help.
 
@@ -42,7 +42,7 @@ The exact code you need to edit to add the *delete* and *update* functions to yo
   - It's okay to have the Update function use the *renderform* from the [**intro-mysql4**] files as-is.  You do not need to style the *renderform* - it just needs to work correctly.  We'll make it look better later.
   - Upon Submit or Cancel, the *renderform* should take the user back to the visitors page
 
-## Step 3: Turn-in the Lab Assignment in Blackboard
+## Step 4: Turn-in the Lab Assignment in Blackboard
 
 To get credit for your work:
 
