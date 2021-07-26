@@ -1,6 +1,6 @@
 # Lab 7: Website Collaboration
 
-*Due: Wednesday, July 28, 2021*
+*Due: Friday, July 30, 2021*
 
 **The goal** of this lab is to build three websites collaboratively.
 
@@ -14,12 +14,13 @@
 
 *Given the unique nature of this summer's class, your team is already established: Miranda; Kyler; Matthew. Also, instead of everyone picking an initial role for themselves, everyone will perform **every** role in a "round robin" fashion.*
 
+Following the process described in detail the lecture video about the *Development Process*.
+
 ### Technician Role
 
-- Following the process outlined in the lecture video about the *Development Process*, everyone needs to perform the role of Technician and **setup a repository** with a readme.md file, and then add the other team members as GitHub "collaborators"
+- Everyone needs to perform the role of Technician and **setup a repository** with a readme.md file, and then add the other team members as GitHub "collaborators"
   - Name the repository you create: **Lab 7 - *firstname*** (using your first name)
   - Note: the GitHub usernames of your teammates can be found in our #chatter channel in Slack
-  - NOTE: this step needs to be completed by end-of-day TODAY, Monday, July 26
 
 ### Information Architect Role
 
@@ -35,7 +36,6 @@
     - Create a simple navigation element (unstyled, unordered list) in each HTML file to allow the user to go from page to page
 
   - HINT: keep it simple; do not work with PHP includes at this point
-  - NOTE: this step needs to be completed by end-of-day on Tuesday, July 27
 
 ### Visual Designer Role
 
@@ -50,7 +50,6 @@
   - Requirements:
     - All four webpages must look like they belong to a single, unified website from a design stand point
     - The navigation element must be identically styled and positioned on all four webpages
-  - NOTE: this step needs to be completed by end-of-day on Wednesday, July 28
 
 ### Technician Role, again
 

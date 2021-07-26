@@ -7,7 +7,7 @@ Advanced Front-end Web Design and Development
 
 - [Principles of Page Design, part 2 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2cd5c090-5bfa-4354-a130-ad6d01413d52) and ([PDF](09a-principles-of-page-design2/page-layout.pdf))
 - The Web Development Process - Collaboration (Panopto, coming soon)
-- Lab 7: "Smash" Website (due: Friday, July 30 ...coming soon)
+- [Lab 7: Website Collaboration](lab07-collaboration/instructions.md) (due: Friday, July 30)
 
 
 
