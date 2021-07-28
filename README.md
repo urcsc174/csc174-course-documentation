@@ -9,7 +9,7 @@ Advanced Front-end Web Design and Development
   - [10 Principles Of Readability And Web Typography (Smashing Magazine)](https://www.smashingmagazine.com/2009/03/10-principles-for-readable-web-typography/)
   - [Design Principles for Developers: Processes and CSS Tips for Better Web Design (CSS Tricks)](https://css-tricks.com/design-principles-for-developers-processes-and-css-tips-for-better-web-design/)
   - [30 Hilarious Examples That Show Why Letter Spacing Is Important (Bored Panda)](https://www.boredpanda.com/funny-importance-of-kerning/)
-- Lab 8 coming soon
+- [Lab 8: Visual Design Reviews](lab08-visual-design-reviews/instructions.md) (due: Friday, July 30)
 
 *Continue working on...*
 
