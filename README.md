@@ -5,20 +5,6 @@ Advanced Front-end Web Design and Development
 
 ## Friday, July 30, 2021
 
-- [Templates, Libraries, and Frameworks (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8a3dfd82-6db8-4f0e-af5c-ad740157969e)
-
-## Wednesday, July 28, 2021
-
-- [Principles of Page Design, part 3 - Typography (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2bede5dd-f18b-4383-b4e0-ad6d01415467) and ([PDF](10a-principles-of-page-design3/typography.pdf))
-  - [10 Principles Of Readability And Web Typography (Smashing Magazine)](https://www.smashingmagazine.com/2009/03/10-principles-for-readable-web-typography/)
-  - [Design Principles for Developers: Processes and CSS Tips for Better Web Design (CSS Tricks)](https://css-tricks.com/design-principles-for-developers-processes-and-css-tips-for-better-web-design/)
-  - [30 Hilarious Examples That Show Why Letter Spacing Is Important (Bored Panda)](https://www.boredpanda.com/funny-importance-of-kerning/)
-- [Lab 8: Visual Design Reviews](lab08-visual-design-reviews/instructions.md) (due: Friday, July 30)
-
-*Continue working on...*
-
-- [Lab 7: Website Collaboration](lab07-collaboration/instructions.md) (due: Friday, July 30)
-  - [The Web Development Process - Collaboration (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cb5b7ebc-795d-4b8c-ae93-ad710109851a)
-
-
-
+- [Templates, Libraries, and Frameworks (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8a3dfd82-6db8-4f0e-af5c-ad740157969e) and ([PDF](11a-templates-libraries-frameworks/templates-libraries-frameworks.pdf))
+  - [Good article about CSS Frameworks - pros & cons (article)](https://geekflare.com/best-css-frameworks/)
+- Lab 9 coming soon
