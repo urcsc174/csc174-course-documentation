@@ -5,5 +5,5 @@ Advanced Front-end Web Design and Development
 
 ## Monday, August 2, 2021
 
-- Project 2 (coming soon)
+- [Project 2: Visual Design](project2-visual-design/instructions.md) (due: Monday, August 9, 2021 *...one week!*)
 
