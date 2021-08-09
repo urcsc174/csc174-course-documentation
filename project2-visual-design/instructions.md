@@ -1,6 +1,6 @@
 # Project 2: Visual Design
 
-*Due: Monday, August 9, 2021 (one week)*
+Due: <s>Monday, August 9, 2021</s> *...extended!*
 
 **The goal** of this project is to build a new website built on an Information Architecture created in Project 1.
 
